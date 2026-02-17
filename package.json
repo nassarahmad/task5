@@ -1,6 +1,6 @@
 {
   "dependencies": {
-    "express": "^4.21.2",
+    "express": "^4.22.0",
     "gitignore": "^0.7.0"
   }
 }
